@@ -41,3 +41,21 @@ This project is a backend system for an e-commerce website, built using Node.js,
 - Sequelize ORM
 - PostgreSQL
 - dotenv
+
+# Screenshots
+
+![Screenshot 2024-11-04 9 07 12 PM](https://github.com/user-attachments/assets/f8ce9f58-7fa1-43af-9b79-5d0571a4b965)
+![Screenshot 2024-11-04 9 07 24 PM](https://github.com/user-attachments/assets/64a83fab-2e19-4210-99af-93bf5a39084c)
+![Screenshot 2024-11-04 9 07 37 PM](https://github.com/user-attachments/assets/25801c33-7b85-4a14-985f-413f58b0289f)
+![Screenshot 2024-11-04 9 08 20 PM](https://github.com/user-attachments/assets/0ae9e5fa-99a9-4224-ba14-e1114b4f5371)
+![Screenshot 2024-11-04 9 08 46 PM](https://github.com/user-attachments/assets/4a9c8b69-8cb5-4027-97d8-0a8de9457115)
+
+# Links
+
+- Walkthrough Video:  https://new.express.adobe.com/publishedV2/urn:aaid:sc:US:bee5f2f4-8f53-4e1c-8ad0-64646d377e28?category=search
+
+- GitHub Repo:  https://github.com/PaigeC001/ECom-Backend
+
+
+
+
