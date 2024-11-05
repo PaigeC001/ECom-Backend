@@ -1,10 +1,11 @@
 const router = require('express').Router();
-const categoryRoutes = require('./category-routes');
 const productRoutes = require('./product-routes');
+const categoryRoutes = require('./category-routes');
 const tagRoutes = require('./tag-routes');
 
-router.use('/categories', categoryRoutes);
+// Register each route file under its respective path
 router.use('/products', productRoutes);
+router.use('/categories', categoryRoutes);
 router.use('/tags', tagRoutes);
 
 module.exports = router;
